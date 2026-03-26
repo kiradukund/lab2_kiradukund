@@ -1,0 +1,31 @@
+Tweet_ID,Username,Text,Likes,Retweets,Timestamp
+1,alice_wonder,Python is amazing for data analysis and machine learning projects,1500,300,2024-01-01 10:00:00
+2,bob_codes,Just finished my first Python project and it works perfectly,2300,450,2024-01-01 11:00:00
+3,carol_tech,Learning about bubble sort algorithms in class today was fun,980,120,2024-01-01 12:00:00
+4,dave_tweets,Social media data analysis is the future of digital marketing,3400,700,2024-01-01 13:00:00
+5,eve_data,Python lists and dictionaries are so powerful for data work,670,90,2024-01-01 14:00:00
+6,frank_dev,Just deployed my first web application using Python flask,1200,250,2024-01-01 15:00:00
+7,grace_ai,Artificial intelligence and machine learning are changing everything,5600,1200,2024-01-01 16:00:00
+8,henry_code,Debugging Python code at midnight is a special kind of fun,890,180,2024-01-01 17:00:00
+9,alice_wonder,Data science is the most exciting field to work in right now,2100,400,2024-01-02 10:00:00
+10,iris_ml,Just learned how to read CSV files in Python using the csv module,760,95,2024-01-02 11:00:00
+11,jack_bytes,Twitter data analysis project is finally complete and working,1800,360,2024-01-02 12:00:00
+12,karen_dev,Python is my favourite programming language by far this year,3200,640,2024-01-02 13:00:00
+13,bob_codes,Sorting algorithms are tricky but make so much sense once you get them,950,190,2024-01-02 14:00:00
+14,leo_tech,Building a data detective app in Python for my university lab,1100,220,2024-01-02 15:00:00
+15,mary_data,CSV files are everywhere in data science and analytics work,430,60,2024-01-02 16:00:00
+16,nick_codes,Finished reading about selection sort and bubble sort today,780,140,2024-01-02 17:00:00
+17,olivia_py,Python programming makes data analysis so much easier and faster,2700,530,2024-01-03 10:00:00
+18,peter_dev,My Python script can now clean messy data automatically,1650,320,2024-01-03 11:00:00
+19,quinn_ai,Machine learning models require a lot of clean training data,4100,820,2024-01-03 12:00:00
+20,rose_tech,Just submitted my coding lab assignment on time for once,990,200,2024-01-03 13:00:00
+21,dave_tweets,Digital marketing teams love data analysis and Python tools,2400,480,2024-01-03 14:00:00
+22,sam_data,Learning Python in university is the best decision I ever made,1350,270,2024-01-03 15:00:00
+23,tina_codes,Keyword search functions are really useful for filtering data,560,80,2024-01-03 16:00:00
+24,grace_ai,Deep learning and neural networks built with Python are incredible,6200,1400,2024-01-03 17:00:00
+25,uma_dev,Writing my first sorting algorithm from scratch felt really good,870,175,2024-01-04 10:00:00
+26,victor_py,Python dictionary operations make data processing very efficient,1450,290,2024-01-04 11:00:00
+27,wendy_tech,Data cleaning is the most important step in any analysis project,2050,410,2024-01-04 12:00:00
+28,xavier_ml,Implementing bubble sort without using the sort function was hard,730,145,2024-01-04 13:00:00
+29,alice_wonder,Three tweets in and Python just keeps getting better every day,1900,380,2024-01-04 14:00:00
+30,yara_codes,Just found the most viral tweet in my dataset using a loop,640,110,2024-01-04 15:00:00
