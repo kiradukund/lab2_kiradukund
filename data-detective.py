@@ -2,7 +2,7 @@ import csv
 import sys
 import os
 
-# my data detective lab - twitter dataset analysis
+# lab 2 - kiradukund - analyzing twitter data for my python class
 # i split everything into functions to keep things organized
 
 
@@ -81,7 +81,7 @@ def find_most_liked(tweet_list):
     most_liked_tweet = tweet_list[0]  # start with tweet 1 as our best guess
 
     for i in range(1, len(tweet_list)):
-        # this part got me at first - you have to convert to int
+        # my lecturer warned us about this string comparison issue in class
         # because "90" > "200" in python string comparison which is wrong
         current_likes = int(tweet_list[i]["Likes"])
         best_so_far   = int(most_liked_tweet["Likes"])
